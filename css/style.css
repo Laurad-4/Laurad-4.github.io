@@ -55,6 +55,8 @@ h2 {
 	margin-top: 0;
 }
 
+
+
 main {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
@@ -63,4 +65,12 @@ main {
 
 section {
 	padding: 10px;
+}
+
+#history {
+  clear: both;
+}
+
+#population {
+  clear: both
 }
