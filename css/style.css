@@ -3,9 +3,67 @@
 body{
     color: #222;
     font-size: 14px;
-    font-family: '"instead of Helvetica", "Arial", sans-serif;
+    font-family: '"Helvetica", "Arial", sans-serif;
 }
 
 h1 {
   font-size: 35px;
+}
+
+body {
+  color: #222;
+  font-family: "Trebuchet MS", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+}
+
+#wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+
+a,
+a:link,
+a:visited {
+  color: rgb(244,115,33);
+}
+
+a:hover {
+  color: rgb(0,80,48);
+}
+
+h2 {
+  color: rgb(0,80,48);
+  border-bottom: 1px dotted rgb(0,80,48);
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  float: left;
+  list-style: none;
+  background-color: #eee;
+  padding: 8px;
+  margin-right: 8px;
+}
+
+#wrapper {
+  max-width: 960px;
+	margin: 0 auto;
+}
+
+h2 {
+	margin-top: 0;
+}
+
+main {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 20px;
+}
+
+section {
+	padding: 10px;
 }
