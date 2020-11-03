@@ -17,6 +17,10 @@ h1 {
   margin: 20px auto;
 } 
 
+th {
+  text-align: left;
+}
+
 a,
 a:link,
 a:visited,
