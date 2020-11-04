@@ -12,10 +12,11 @@ h1 {
 }
 
 #wrapper {
-  width:50%;
+  width:80%;
   max-width:600px;
   margin: 40px auto;
 } 
+
 
 th {
   text-align: left;
@@ -34,7 +35,7 @@ a:hover {
 }
 
 h2 {
-  color: #be0026 ;
+  color: #be0026;
   border-bottom: 1px dotted #3c5aa3;
 }
 
@@ -59,7 +60,7 @@ h2 {
 
 
 
-main {
+article {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	grid-gap: 20px;
