@@ -80,3 +80,9 @@ footer {
   max-width: 600px;
   vertical-align: top;
 }
+
+#distribution {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 20px;
+}
