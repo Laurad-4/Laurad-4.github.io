@@ -73,3 +73,10 @@ section {
 figure {
   clear: both;
 }
+
+footer {
+  background-color: #eee;
+  display: inline-block;
+  max-width: 600px;
+  vertical-align: top;
+}
