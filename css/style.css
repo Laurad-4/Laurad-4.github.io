@@ -62,7 +62,7 @@ h2 {
 
 
 section {
-	padding: 10px;
+	padding: 10px 0;
 }
 
 #history {
@@ -81,13 +81,18 @@ margin: 10px 0;
 
 footer {
   background-color: #eee;
-  display: inline-block;
+  display: block;
   max-width: 600px;
   vertical-align: top;
+  padding: 5px 20px;
 }
 
 #distribution {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	grid-gap: 20px;
+}
+
+#distribution p{
+    margin-top; 0;
 }
