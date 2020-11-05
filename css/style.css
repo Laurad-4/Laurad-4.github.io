@@ -16,6 +16,9 @@ h1 {
   margin: 40px auto;
 } 
 
+img {
+max-width:100%;
+}
 
 th {
   text-align: left;
@@ -71,8 +74,10 @@ section {
 }
 
 figure {
-  clear: both;
+clear: both;
+margin: 10px 0;
 }
+
 
 footer {
   background-color: #eee;
