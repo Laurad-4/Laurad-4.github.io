@@ -24,6 +24,10 @@ caption {
   text-align: left;
 }
 
+caption {
+  font-weight: bold;
+}
+
 th {
   text-align: left;
 }
