@@ -6,6 +6,9 @@ body {
   font-size: 14px;
   font-family: "Roboto", "Lato", sans-serif;
 }
+body {
+  background-color: lightblue;
+}
 
 h1 {
   font-size: 35px;
