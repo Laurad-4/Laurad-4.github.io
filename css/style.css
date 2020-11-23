@@ -24,6 +24,11 @@ img {
   max-width:100%;
 }
 
+ul.a {
+  list-style-type: circle;
+}
+
+
 caption {
   text-align: left;
 }
