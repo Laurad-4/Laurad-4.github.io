@@ -6,8 +6,9 @@ body {
   font-size: 14px;
   font-family: "Roboto", "Lato", sans-serif;
 }
-body {
-  background-color: beige;
+
+figure {
+    text-align:center;
 }
 
 h1 {
