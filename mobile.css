@@ -16,3 +16,8 @@ nav ul{
   margin-right: 0;
   margin-bottom: 8px;
 }
+
+img {
+  width: 100%;
+  border: 1px solid #222;
+}
