@@ -10,3 +10,9 @@
   margin: 0;
   padding: 8px;
 } 
+
+nav ul{
+  display: block;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
