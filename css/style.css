@@ -21,7 +21,8 @@ h1 {
 } 
 
 img {
-  max-width:100%;
+  height:auto;
+  width:100%;
 }
 
 ul.a {
@@ -37,9 +38,9 @@ caption {
   font-weight: bold;
 }
 
-th {
+/* th {
   text-align: left;
-}
+} */
 
 a,
 a:link,
@@ -92,7 +93,7 @@ figure {
 footer {
   background-color: #eee;
   display: block;
-  max-width: 600px;
+  /* max-width: 600px; */
   vertical-align: top;
   padding: 5px 20px;
 }
