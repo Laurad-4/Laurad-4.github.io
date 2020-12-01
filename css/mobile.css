@@ -3,17 +3,13 @@
     #wrapper {
       width:95%;
       margin: 20px auto;
+      padding: 8px;
     }
 
   body {
     font-size: 20px;
   }
 
-
-#wrapper {
-  margin: 0;
-  padding: 8px;
-} 
 
 nav ul {
   display: block;
